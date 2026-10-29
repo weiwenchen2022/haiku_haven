@@ -1,6 +1,4 @@
-streamlit==1.66.1
-psycopg==3.3.6
-psycopg2==2.9.13
-psycopg2-binary==2.9.13
-sqlalchemy==2.1.6
-bcrypt==5.0.0
+streamlit==1.40.2
+psycopg2-binary==2.9.10
+sqlalchemy==2.0.40
+bcrypt==4.3.0
